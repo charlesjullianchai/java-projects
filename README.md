@@ -1,4 +1,7 @@
-Reaction Speed Game:
-    Press the letters on the screen before they turn red.
-Checkers:
-    Hold on a piece and drag to any of the yellow pieces to make a move. A piece MUST jump over another if it is possible.
+To open any of these projects, follow the following steps:
+    1. Download and unzip the project
+    2. Install java on your operating system
+    3. Open the command prompt (Windows) or terminal (Mac or Linux)
+    4. Enter the project directory that you want to run using cd *filename*
+    5. Use cd to enter the out folder and all the folders in it until you encounter the .class files
+    6. Type in the command line/terminal "java Main", and the project will run
